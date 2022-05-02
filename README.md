@@ -30,6 +30,17 @@ Example Qn: What does "" suggests about how the writer was feeling?
 Can replace "feeling" with "emotional state" and see if "tired" works.
 
 ```
+
+- Do not say `not [something]`
+
+``` 
+
+Example Qn: What was the weather like that day?
+
+1. The weather was hot and dry ✅
+2. It was not raining ❌
+
+```
 ## Argumentative Writing
 
 Three types of Questions:
@@ -39,3 +50,33 @@ Three types of Questions:
 3. Should *subject* be *this*?
 
 The only difference between these three are the stand and the thesis statement.
+
+Plan before you write:  
+    •	2 Bullet Points (Reduced from 3 PEELs)  
+    •	Supporting Evidence should go beyond hypothetical examples  
+
+Formal Writing with Objective Tone:  
+    •	Your point should not support any other argument (Exclusive to the topic)  
+    •	Hedging and Softening of Tone  
+        o	All authoritative parents will listen to their children with open minds (Too Absolute)  
+        o	Most authoritative parents will listen to their children with open minds (Best)  
+        o	Most authoritative parents might/will probably listen to their children with open minds (Weak)  
+
+        
+•	Informal Expressions (E.g. Kids, Guys)
+•	Do NOT use contractions (“It’s” still a contraction)
+Pronoun inconsistency
+•	The child, their parents
+•	Do not use “/”, E.g. Him/Her – this is not proper punctuation in an essay
+•	Instead, just choose one pronoun and stick with it.
+o	Children raised under authoritative parents are often stressed as they are forced to meet expectations. You are constantly pursuing academic success and are not allowed to play
+Introduction should have engaging hook and clear thesis.
+Topic Sentence should address or engage essay question directly. Don’t save the best for last (E.g. One should not be able to find a stronger “P” somewhere in the paragraph).
+•	Authoritative parenting guides a child who may not know best.
+•	Authoritative parenting styles guide children who do not know any better and this is why they should not be outlawed.
+Conclusion should include paraphrased thesis AND a short reflection on the topic. (Check Pink Booklet for More)
+Make sure to sound “Atas” for your vocabulary marks (Check JANAB)
+Your point must be correct and mature in the first place.
+Your sentence should not make sense only to you.
+Try not to use “like” to give examples. Use “such as” or “this includes”.
+“It is indeed advisable to” instead of “One strongly agrees” in the stand.
