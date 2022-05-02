@@ -53,7 +53,7 @@ For example: `"[Quote]" suggests that [Explanation], causing [Adjective]`.
 
 The template is `The [Type] imagery "[Quote]" suggests/presents/shows [Explanation]`.
 
-Your explanation should not merely rephrase the imagery, as this is one of the few instances in CLAP where you actually need to look one level deeper.
+Your explanation should not merely rephrase the imagery, as this is one of the few instances in CLAP where you actually need to look one level deeper instead of writing the first thing which comes to mind.
 
 ```
 Example: The car coughed and spluttered to life.
@@ -64,6 +64,41 @@ Answer: The auditory imagery "coughed and spluttered to life" suggests that the 
 Answer: The auditory iamgery "coughed and spluttered to life" suggests that the car had difficulty starting up, due to its old age. 
 ✅ This answer looks one level deeper and actually explains the connotation of the expression of imagery.
 ```
+
+- Unusual and Effective Expressions
+
+Template:
+
+`The expresion is unusual as it compares [thing] which is [definition/nuance] to [thing] which is [definition/nuance].`  
+`The expressions is effective as it shows how [Explanation]`
+
+Usually, it is either:
+
+1. Using a verb on a unsuitable noun
+
+Eg. "Air filled the *lungs* and made them *chortle*"  
+- Lungs cannot laugh
+- The ride was exhilarating
+
+2. Seldom-Used Expression or Word
+
+[No example available at the moment]
+
+3. Tangible with Intangible
+
+Eg. "Conscience is a man's compass"
+- Man's conscience is intangible while a compass is a tangible object used for navigation
+- Moral sense helps to guide us and make decisions just like using a compass to navigate
+
+4. Oxymoron-Oxymoron (Opposite)
+
+Eg. "Michelle has been *busy* doing *nothing*"  
+- Busy means that someone has much work to complete which is the opposite of having no work at all
+- Only thing she has been doing is lazing around
+
+5. Living with Non-Living
+
+[Similar to Point 1]
 
 ## Argumentative Writing
 
