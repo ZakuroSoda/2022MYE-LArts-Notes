@@ -39,8 +39,32 @@ Example Qn: What was the weather like that day?
 
 1. The weather was hot and dry ✅
 2. It was not raining ❌
+```
+
+- Language Use for Impact:
+
+The question will always be about `Explain how the language used shows how [adjective] the [thing] was`.
+
+Thus, in your answer, you should try and include it as part of your answer, in the form of a synonym. You might want to annotate the question.s
+
+For example: `"[Quote]" suggests that [Explanation], causing [Adjective]`.  
+
+- Identifying and Explaining Imagery
+
+The template is `The [Type] imagery "[Quote]" suggests/presents/shows [Explanation]`.
+
+Your explanation should not merely rephrase the imagery, as this is one of the few instances in CLAP where you actually need to look one level deeper.
 
 ```
+Example: The car coughed and spluttered to life.
+
+Answer: The auditory imagery "coughed and spluttered to life" suggests that the car was noisy and loud. 
+❌ Merely restating the imagery without imagery. 
+
+Answer: The auditory iamgery "coughed and spluttered to life" suggests that the car had difficulty starting up, due to its old age. 
+✅ This answer looks one level deeper and actually explains the connotation of the expression of imagery.
+```
+
 ## Argumentative Writing
 
 Three types of Questions:
